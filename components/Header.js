@@ -23,7 +23,7 @@ function Header() {
             </div>
             <Image
                 className="object-contain"
-                src="https://links.papareact.com/ua6" height={100} width={200} />
+                src="https://links.papareact.com/ua6" height={100} width={200} alt={"Hulu Logo white"} />
             
                 </header>
     )
